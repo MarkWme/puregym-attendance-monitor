@@ -233,6 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This application is not affiliated with PureGym. It uses publicly available API endpoints for personal monitoring purposes. Please use responsibly and in accordance with PureGym's terms of service.
 
+This application is an experiment, built mostly using Claude Code. It took a couple of hours to complete, most of that time poking around the PureGym API to figure out how it worked and leaning on investigations many others have conducted that I found on the Internet. The primary goal was experiementing with Claude Code's features. This application is a side effect of those experiments!
+
 ## Support
 
 For issues, questions, or feature requests, please [open an issue](https://github.com/MarkWme/puregym-attendance-monitor/issues) on GitHub.
